@@ -40,5 +40,9 @@
 	<classpathentry kind="lib" path="imp/lib/java/runtime/support/commons-fileupload-1.2.1.jar"/>
 	<classpathentry kind="lib" path="imp/lib/java/runtime/support/commons-io-1.4.jar"/>
 	<classpathentry kind="lib" path="imp/lib/java/runtime/support/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="imp/lib/java/runtime/vaadin/vaadin-client-7.1.15.jar"/>
+	<classpathentry kind="lib" path="imp/lib/java/runtime/vaadin/vaadin-server-7.1.15.jar"/>
+	<classpathentry kind="lib" path="imp/lib/java/runtime/vaadin/vaadin-shared-7.1.15.jar"/>
+	<classpathentry kind="lib" path="imp/lib/java/runtime/vaadin/vaadin-shared-deps-1.0.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
